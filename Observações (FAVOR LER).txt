@@ -2,4 +2,5 @@ Obs1: Na hora de executar os arquivos do pentaho, favor se lembrar de mudar a lo
 Obs2: Eu deixei um backup do DW, para caso não queira executar os arquivos do pentaho.
 Obs3: Como o DW só tem uma dimensão, não vi necessidade de criar uma tabela fato.
 Obs4: Eu tive que criar uma tabela no PowerBI contendo as urls das imagens utilizadas no filtro; caso esta tabela não apareça, eu deixei disponível o DAX utilizado para criar esta tabela(não precisa entender ele, apenas copie e cole caso necessário).
-Obs5: Por fim, eu deixei disponível o arquivo .bat para agendamento da execução dos jobs (é só usar o agendador de tarefas do windows no .bat) 
+Obs5: Por fim, eu deixei disponível o arquivo .bat para agendamento da execução dos jobs (é só usar o agendador de tarefas do windows no .bat)
+Obs6(bônus): Eu deixei um segundo arquivo do PowerBI, aonde neste arquivo certos elementos do dashboard possuem animações feitas com css.  
