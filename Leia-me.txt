@@ -1,0 +1,4 @@
+Obs1: Os 3 arquivos csv presentes são as fontes de dados.
+Obs2: Na pasta "arquivos pentaho" está os arquivos relacionados ao ETL feitos com Pentaho.
+Obs3: Eu deixei um backup do DW em um arquivo chamado "dim_bolsa_postgre_backup".
+Obs4: Há dois arquivos de dashboard separados, um com animações e outro sem.
